@@ -67,12 +67,12 @@
 
 <style>
     form{
-        width: 400px;
+        width: 70%;
         margin: 0 auto;
         text-align: center;
     }
     .form-field{
-        margin: 2rem auto;
+        margin: 1rem auto;
     }
     label{
         text-align: left;
